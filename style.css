@@ -1,0 +1,111 @@
+html {
+  background-color: #776b5d;
+}
+body {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  background-color: #f3eeea;
+}
+
+.inicio {
+  background-color: #776b5d;
+  display: flex;
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+
+#raphael {
+  height: 300px;
+  border: 5px solid white;
+  margin-left: 60px;
+}
+
+#nome {
+  color: #f3eeea;
+  margin-left: 100px;
+  font-size: 50px;
+}
+
+#funcao {
+  color: #f3eeea;
+  margin-left: 100px;
+  font-size: 25px;
+}
+
+.inf_lado_esquerdo {
+  background-color: #ebe3d5;
+  width: 270px;
+  height: 1200px;
+  padding: 120px 10px 30px 10px;
+  margin: -120px 10px;
+}
+.dados_lado_esquerdo {
+  margin: 50px 0px;
+}
+
+#Redes_Sociais {
+  margin-left: 100px;
+}
+
+.Redes_Sociais{
+margin-top: -30px;
+}
+
+#instagram{
+margin-top: -49px;
+}
+
+#insta {
+  height: 90px;
+  margin-left: -77px;
+}
+
+#face {
+  height: 44px;
+  margin-left: -55px;
+}
+
+#git {
+  border: 2px solid black;
+  height: 40px;
+  margin-left: -55px;
+}
+
+#in {
+  height: 45px;
+  margin-left: -55px;
+}
+
+.inf_lado_direito {
+  width: 500px;
+  margin-top: -1240px;
+  margin-left: 400px;
+  padding: 20px;
+}
+
+#experiencia {
+  background-color: #ebe3d5;
+  width: 285px;
+  padding: 5px;
+}
+
+#formacao {
+  background-color: #ebe3d5;
+  width: 250px;
+  padding: 5px;
+}
+
+#certificado {
+  background-color: #ebe3d5;
+  width: 140px;
+  padding: 5px;
+  text-decoration: none;
+}
+
+a {
+  color: black;
+}
+footer {
+  margin-top: 535px;
+}
